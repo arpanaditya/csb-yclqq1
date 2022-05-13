@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://arpanaditya.github.io/csb-yclqq1/static/css/main.fe0b0615.chunk.css",
+    "main.js": "https://arpanaditya.github.io/csb-yclqq1/static/js/main.6ebd7b65.chunk.js",
+    "main.js.map": "https://arpanaditya.github.io/csb-yclqq1/static/js/main.6ebd7b65.chunk.js.map",
+    "runtime-main.js": "https://arpanaditya.github.io/csb-yclqq1/static/js/runtime-main.4e991564.js",
+    "runtime-main.js.map": "https://arpanaditya.github.io/csb-yclqq1/static/js/runtime-main.4e991564.js.map",
+    "static/js/2.bea4eaad.chunk.js": "https://arpanaditya.github.io/csb-yclqq1/static/js/2.bea4eaad.chunk.js",
+    "static/js/2.bea4eaad.chunk.js.map": "https://arpanaditya.github.io/csb-yclqq1/static/js/2.bea4eaad.chunk.js.map",
+    "index.html": "https://arpanaditya.github.io/csb-yclqq1/index.html",
+    "static/css/main.fe0b0615.chunk.css.map": "https://arpanaditya.github.io/csb-yclqq1/static/css/main.fe0b0615.chunk.css.map",
+    "static/js/2.bea4eaad.chunk.js.LICENSE.txt": "https://arpanaditya.github.io/csb-yclqq1/static/js/2.bea4eaad.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4e991564.js",
+    "static/js/2.bea4eaad.chunk.js",
+    "static/css/main.fe0b0615.chunk.css",
+    "static/js/main.6ebd7b65.chunk.js"
+  ]
+}
